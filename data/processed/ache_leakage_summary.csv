@@ -1,0 +1,5 @@
+dataset,tier,n_before,n_exact_overlap,n_analogue_overlap,n_removed_total,n_after
+Regression (exact IC50),Exact leak-free,5664,51,0,51,5613
+Regression (exact IC50),Strict (Tanimoto<0.85),5664,51,3,54,5610
+Classification (<=5 vs >=6 + censored),Exact leak-free,4366,28,0,28,4338
+Classification (<=5 vs >=6 + censored),Strict (Tanimoto<0.85),4366,28,1,29,4337

@@ -1,0 +1,22 @@
+molecule_chembl_id,pref_name,mechanism_of_action,in_chembl_mechanism,in_opentargets
+CHEMBL2107723,ACOTIAMIDE,,False,True
+CHEMBL1652,AMBENONIUM,Acetylcholinesterase inhibitor,True,True
+CHEMBL5095056,BENZGALANTAMINE,Acetylcholinesterase inhibitor,True,True
+CHEMBL1201229,DEMECARIUM,Acetylcholinesterase inhibitor,True,True
+CHEMBL1199307,DISTIGMINE,Acetylcholinesterase inhibitor,True,False
+CHEMBL502,DONEPEZIL,Acetylcholinesterase inhibitor,True,True
+CHEMBL1201341,ECHOTHIOPHATE,Acetylcholinesterase inhibitor,True,True
+CHEMBL1104,EDROPHONIUM,Acetylcholinesterase inhibitor,True,True
+CHEMBL659,GALANTAMINE,Acetylcholinesterase inhibitor,True,True
+CHEMBL1201349,HEXAFLUORENIUM,Acetylcholinesterase inhibitor,True,True
+CHEMBL395280,HUPERZINE A,,False,True
+CHEMBL1025,ISOFLUROPHATE,Acetylcholinesterase inhibitor,True,True
+CHEMBL2107457,ITOPRIDE,,False,True
+CHEMBL278819,MINAPRINE,Acetylcholinesterase inhibitor,True,False
+CHEMBL278020,NEOSTIGMINE,Acetylcholinesterase inhibitor,True,True
+CHEMBL94,PHYSOSTIGMINE,Acetylcholinesterase inhibitor,True,True
+CHEMBL1420,PRALIDOXIME,Acetylcholinesterase activator,True,True
+CHEMBL2105345,PROPANIDID,Acetylcholinesterase inhibitor,True,False
+CHEMBL1115,PYRIDOSTIGMINE,Acetylcholinesterase inhibitor,True,True
+CHEMBL636,RIVASTIGMINE,,False,True
+CHEMBL95,TACRINE,,False,True

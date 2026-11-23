@@ -1,0 +1,17 @@
+curation_step,count
+raw_records,9882
+after_data_validity_check,9253
+after_binding_assay_B,9253
+after_type_IC50,9253
+after_relation_filter,7260
+after_molar_units,7193
+after_positive_values,7193
+after_valid_smiles_standardization,7192
+unique_curated_compounds,5664
+exact_actives,2799
+exact_inactives,1114
+dropped_grey_zone,1751
+rescued_censored_inactives,585
+final_classification_compounds,4366
+final_actives,2692
+final_inactives,1674

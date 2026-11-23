@@ -1,0 +1,14 @@
+{
+  "target": {
+    "symbol": "AChE",
+    "name": "Acetylcholinesterase",
+    "chembl_id": "CHEMBL220",
+    "uniprot": "P22303",
+    "ensembl": "ENSG00000087085",
+    "source_list": "Slide 13"
+  },
+  "chembl_db_version": "ChEMBL_37",
+  "n_raw_activities": 9882,
+  "n_raw_approved_drugs": 3475,
+  "n_raw_positive_controls": 21
+}

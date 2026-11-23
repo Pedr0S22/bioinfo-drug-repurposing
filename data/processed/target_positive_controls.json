@@ -1,0 +1,641 @@
+{
+  "chembl_release": "ChEMBL_37",
+  "targets": {
+    "ABL1": [
+      {
+        "molecule_chembl_id": "CHEMBL1171837",
+        "pref_name": "PONATINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1421",
+        "pref_name": "DASATINIB ANHYDROUS"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1946170",
+        "pref_name": "REGORAFENIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL255863",
+        "pref_name": "NILOTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL288441",
+        "pref_name": "BOSUTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3948730",
+        "pref_name": "UMBRALISIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL4208229",
+        "pref_name": "ASCIMINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL941",
+        "pref_name": "IMATINIB"
+      }
+    ],
+    "ADORA2A": [
+      {
+        "molecule_chembl_id": "CHEMBL113",
+        "pref_name": "CAFFEINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL317052",
+        "pref_name": "REGADENOSON ANHYDROUS"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL431770",
+        "pref_name": "ISTRADEFYLLINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL477",
+        "pref_name": "ADENOSINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL628",
+        "pref_name": "PENTOXIFYLLINE"
+      }
+    ],
+    "DHFR": [
+      {
+        "molecule_chembl_id": "CHEMBL1201746",
+        "pref_name": "PRALATREXATE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL225072",
+        "pref_name": "PEMETREXED"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL34259",
+        "pref_name": "METHOTREXATE"
+      }
+    ],
+    "PARP1": [
+      {
+        "molecule_chembl_id": "CHEMBL1094636",
+        "pref_name": "NIRAPARIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1173055",
+        "pref_name": "RUCAPARIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3137320",
+        "pref_name": "TALAZOPARIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL4112930",
+        "pref_name": "PAMIPARIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL506871",
+        "pref_name": "VELIPARIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL521686",
+        "pref_name": "OLAPARIB"
+      }
+    ],
+    "DRD2": [
+      {
+        "molecule_chembl_id": "CHEMBL1085",
+        "pref_name": "ACETOPHENAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1088",
+        "pref_name": "MESORIDAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1112",
+        "pref_name": "ARIPIPRAZOLE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1113",
+        "pref_name": "AMOXAPINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1200854",
+        "pref_name": "FLUPHENAZINE DECANOATE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1200951",
+        "pref_name": "FLUPHENAZINE ENANTHATE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1200986",
+        "pref_name": "HALOPERIDOL DECANOATE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201",
+        "pref_name": "THIOTHIXENE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201087",
+        "pref_name": "CABERGOLINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201250",
+        "pref_name": "BENZQUINAMIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201328",
+        "pref_name": "CARPHENAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1237021",
+        "pref_name": "LURASIDONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL12713",
+        "pref_name": "SERTINDOLE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1378",
+        "pref_name": "THIETHYLPERAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1423",
+        "pref_name": "PIMOZIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL14376",
+        "pref_name": "ILOPERIDONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1584",
+        "pref_name": "PIPERACETAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1621",
+        "pref_name": "PALIPERIDONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1764",
+        "pref_name": "LEVOMEPROMAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL178803",
+        "pref_name": "BLONANSERIN"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2028019",
+        "pref_name": "CARIPRAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2105581",
+        "pref_name": "VERALIPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2105760",
+        "pref_name": "BREXPIPRAZOLE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2107360",
+        "pref_name": "PALIPERIDONE PALMITATE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2107457",
+        "pref_name": "ITOPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL219916",
+        "pref_name": "DOMPERIDONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2218861",
+        "pref_name": "QUINAGOLIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2219425",
+        "pref_name": "ARIPIPRAZOLE LAUROXIL"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL22242",
+        "pref_name": "REMOXIPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL243712",
+        "pref_name": "AMISULPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL26",
+        "pref_name": "SULPIRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL267044",
+        "pref_name": "LEVOSULPIRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL28218",
+        "pref_name": "BROMPERIDOL"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL290194",
+        "pref_name": "ALIZAPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL297302",
+        "pref_name": "BENPERIDOL"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL301265",
+        "pref_name": "PRAMIPEXOLE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3187365",
+        "pref_name": "ASENAPINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL325109",
+        "pref_name": "CLEBOPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3306803",
+        "pref_name": "LUMATEPERONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL399510",
+        "pref_name": "BROMOPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL42",
+        "pref_name": "CLOZAPINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL422",
+        "pref_name": "TRIFLUOPERAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL460",
+        "pref_name": "MOLINDONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL46516",
+        "pref_name": "FLUSPIRILENE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL493",
+        "pref_name": "BROMOCRIPTINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL53",
+        "pref_name": "APOMORPHINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL54",
+        "pref_name": "HALOPERIDOL"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL564",
+        "pref_name": "PROMAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL567",
+        "pref_name": "PERPHENAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL570",
+        "pref_name": "TRIFLUPROMAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL589",
+        "pref_name": "ROPINIROLE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL644",
+        "pref_name": "TRIMIPRAMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL708",
+        "pref_name": "ZIPRASIDONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL71",
+        "pref_name": "CHLORPROMAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL715",
+        "pref_name": "OLANZAPINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL716",
+        "pref_name": "QUETIAPINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL726",
+        "pref_name": "FLUPHENAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL728",
+        "pref_name": "PROCHLORPERAZINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL831",
+        "pref_name": "LOXAPINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL84158",
+        "pref_name": "TIAPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL85",
+        "pref_name": "RISPERIDONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL86",
+        "pref_name": "METOCLOPRAMIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL908",
+        "pref_name": "CHLORPROTHIXENE"
+      }
+    ],
+    "AChE": [
+      {
+        "molecule_chembl_id": "CHEMBL1025",
+        "pref_name": "ISOFLUROPHATE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1104",
+        "pref_name": "EDROPHONIUM"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1115",
+        "pref_name": "PYRIDOSTIGMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1199307",
+        "pref_name": "DISTIGMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201229",
+        "pref_name": "DEMECARIUM"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201341",
+        "pref_name": "ECHOTHIOPHATE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201349",
+        "pref_name": "HEXAFLUORENIUM"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1420",
+        "pref_name": "PRALIDOXIME"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1652",
+        "pref_name": "AMBENONIUM"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2105345",
+        "pref_name": "PROPANIDID"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2107457",
+        "pref_name": "ITOPRIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2107723",
+        "pref_name": "ACOTIAMIDE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL278020",
+        "pref_name": "NEOSTIGMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL278819",
+        "pref_name": "MINAPRINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL395280",
+        "pref_name": "HUPERZINE A"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL502",
+        "pref_name": "DONEPEZIL"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL5095056",
+        "pref_name": "BENZGALANTAMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL636",
+        "pref_name": "RIVASTIGMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL659",
+        "pref_name": "GALANTAMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL94",
+        "pref_name": "PHYSOSTIGMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL95",
+        "pref_name": "TACRINE"
+      }
+    ],
+    "NTRK1": [
+      {
+        "molecule_chembl_id": "CHEMBL1946170",
+        "pref_name": "REGORAFENIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1983268",
+        "pref_name": "ENTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3889654",
+        "pref_name": "LAROTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL4298138",
+        "pref_name": "REPOTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL603469",
+        "pref_name": "LESTAURTINIB"
+      }
+    ],
+    "SLC6A4": [
+      {
+        "molecule_chembl_id": "CHEMBL11",
+        "pref_name": "IMIPRAMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1113",
+        "pref_name": "AMOXAPINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1118",
+        "pref_name": "DESVENLAFAXINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1175",
+        "pref_name": "DULOXETINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201201",
+        "pref_name": "METHAMPHETAMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1201269",
+        "pref_name": "CHLORPHENTERMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1492500",
+        "pref_name": "DOTHIEPIN"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1508",
+        "pref_name": "ESCITALOPRAM"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2104993",
+        "pref_name": "VORTIOXETINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL259209",
+        "pref_name": "MILNACIPRAN"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL276520",
+        "pref_name": "INDALPINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3301595",
+        "pref_name": "DASOTRALINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3306803",
+        "pref_name": "LUMATEPERONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL41",
+        "pref_name": "FLUOXETINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL415",
+        "pref_name": "CLOMIPRAMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL439849",
+        "pref_name": "VILAZODONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL445",
+        "pref_name": "NORTRIPTYLINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL490",
+        "pref_name": "PAROXETINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL549",
+        "pref_name": "CITALOPRAM"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL621",
+        "pref_name": "TRAZODONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL623",
+        "pref_name": "NEFAZODONE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL629",
+        "pref_name": "AMITRIPTYLINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL637",
+        "pref_name": "VENLAFAXINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL668",
+        "pref_name": "PROTRIPTYLINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL781",
+        "pref_name": "MAZINDOL"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL809",
+        "pref_name": "SERTRALINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL814",
+        "pref_name": "FLUVOXAMINE"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL99946",
+        "pref_name": "LEVOMILNACIPRAN"
+      }
+    ],
+    "CDK2": [],
+    "BRAF": [
+      {
+        "molecule_chembl_id": "CHEMBL1229517",
+        "pref_name": "VEMURAFENIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1336",
+        "pref_name": "SORAFENIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL1946170",
+        "pref_name": "REGORAFENIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL2028663",
+        "pref_name": "DABRAFENIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3301612",
+        "pref_name": "ENCORAFENIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3348923",
+        "pref_name": "TOVORAFENIB"
+      }
+    ],
+    "NTRK2": [
+      {
+        "molecule_chembl_id": "CHEMBL1983268",
+        "pref_name": "ENTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3889654",
+        "pref_name": "LAROTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL4298138",
+        "pref_name": "REPOTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL603469",
+        "pref_name": "LESTAURTINIB"
+      }
+    ],
+    "CDK9": [],
+    "NTRK3": [
+      {
+        "molecule_chembl_id": "CHEMBL1983268",
+        "pref_name": "ENTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL3889654",
+        "pref_name": "LAROTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL4298138",
+        "pref_name": "REPOTRECTINIB"
+      },
+      {
+        "molecule_chembl_id": "CHEMBL603469",
+        "pref_name": "LESTAURTINIB"
+      }
+    ]
+  }
+}

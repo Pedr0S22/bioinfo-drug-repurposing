@@ -1,0 +1,35 @@
+[project]
+name = "bioinfo-drug-repurposing"
+version = "0.1.0"
+description = "Bioinformatics Project 7: Repurposing approved drugs against one target using ligand-based models."
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.9.0",
+    "nbclient>=0.10.0",
+    "nbformat>=5.10.4",
+    "numpy>=1.26.4",
+    "pandas>=2.2.2",
+    "rdkit>=2024.3.5",
+    "requests>=2.32.3",
+    "scikit-learn>=1.5.1",
+    "scipy>=1.13.1",
+    "seaborn>=0.13.2",
+    "tqdm>=4.66.4",
+]
+
+[project.optional-dependencies]
+week2 = [
+    "xgboost>=2.1.0",
+    "transformers>=4.44.0",
+    "torch>=2.4.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/bioinfo_repurposing"]
