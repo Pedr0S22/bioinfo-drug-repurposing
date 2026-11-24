@@ -68,8 +68,8 @@ You can double-check (and show your professor directly) using three independent 
 
 ### A. Browser Verification (2-minute visual check)
 1. **Open Targets Platform**:
-   - **CDK2 (`ENSG00000123374`)**: `https://platform.opentargets.org/target/ENSG00000123374` → scroll to **Known Drugs** → filter **Phase = 4** → **0 drugs**. (All listed CDK2 inhibitors—dinaciclib, alvocidib/flavopiridol, seliciclib, milciclib, tagtociclib—are Phase I–III investigational.)
-   - **CDK9 (`ENSG00000136807`)**: `https://platform.opentargets.org/target/ENSG00000136807` → scroll to **Known Drugs** → filter **Phase = 4** → **0 drugs**.
+   - **CDK2 (`ENSG00000123374`)**: `https://platform.opentargets.org/target/ENSG00000123374` → scroll to **Drugs and Clinical Candidates** → filter **Approved / Phase 4** → **0 drugs**. (All listed CDK2 inhibitors—dinaciclib, alvocidib/flavopiridol, seliciclib, milciclib, tagtociclib—are Phase I–III investigational.)
+   - **CDK9 (`ENSG00000136807`)**: `https://platform.opentargets.org/target/ENSG00000136807` → scroll to **Drugs and Clinical Candidates** → filter **Approved / Phase 4** → **0 drugs**.
    - Contrast with **CDK4 (`ENSG00000135446`)** or **ABL1 (`ENSG00000097007`)** → immediately shows Phase 4 FDA-approved drugs (palbociclib/ribociclib/abemaciclib/trilaciclib for CDK4; imatinib/dasatinib/nilotinib/bosutinib/ponatinib/asciminib for ABL1).
 2. **ChEMBL Web Interface**:
    - **CDK2 (`CHEMBL301`)**: `https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL301/` → **Drug Mechanisms** tab → check `Max Phase` column (none at Phase 4 as approved CDK2 mechanism).
@@ -92,3 +92,12 @@ for sym, cid, ens in [("CDK2", "CHEMBL301", "ENSG00000123374"), ("CDK9", "CHEMBL
     ot_p4 = fetch_opentargets_approved_drugs(ens)
     print(f"{sym}: ChEMBL mechanism Phase 4 = {len(mech_p4)}, Open Targets Phase 4 = {len(ot_p4)}")
 ```
+
+---
+
+## 4. Optional Week 3 Plus — Structure-Based Docking (3D Sanity Check)
+
+**Are we using docking?**
+- **No for the core pipeline and Checkpoint 1–2:** Project 7 is **ligand-based**—our QSAR models predict and rank approved drugs from molecular structures alone, without requiring the 3D protein structure.
+- **Optional plus in Week 3:** Once our best leak-free ligand-based models identify the **top 5–10 non-approved repurposing hypotheses**, we may optionally run **3D molecular docking** (e.g., AutoDock Vina using one of human AChE's 76 holo PDB co-crystal structures, such as `4M0E` or `4EY7`, first validated by re-docking the native co-crystallized ligand to RMSD < 2 Å) strictly as an **independent 3D structural sanity check** on the shortlist—not to rank the full 2,027-drug library.
+
